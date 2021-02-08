@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NBC6MiamiWTVJ(src01).us" tvg-name="NBC6 Miami WTVJ" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/WTVJ_%282012_-_Flat%29.svg/1200px-WTVJ_%282012_-_Flat%29.svg.png",NBC 6
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.sg" tvg-name="Paramount Network (Asia)" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/1027px-Paramount_Network.svg.png",Paramount Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxMovies.hk" tvg-name="Fox Movies (Asia)" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1024px-Fox_Movies_%28Asia%29_logo.svg.png",Fox Movies
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-name="Cartoon Network" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1000px-Cartoon_Network_logo.svg.png",Cartoon Network
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/143/index.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.ru" tvg-name="Boomerang" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1000px-Boomerang_2014_logo.svg.png",Boomerang
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/723/index.m3u8
